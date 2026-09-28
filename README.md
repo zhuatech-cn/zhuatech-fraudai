@@ -1,5 +1,7 @@
 # ZhuaTech FraudAI｜知华交易反欺诈 AI 平台
 
+[简体中文](README.md) | [English](README.en.md)
+
 > 实时发现可疑交易，同时保留规则、模型与人工调查证据。
 
 本项目由 **[知华科技（上海如静知华信息科技有限公司）](https://www.zhuatech.cn/)** 发布，面向个人学习交易风控、实时风险决策、Java AI 系统与 Vue 管理平台。
